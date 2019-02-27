@@ -2,9 +2,10 @@
     "name": "kvush/jpgraph",
     "type": "library",
     "description": "jpGraph, library to make graphs and charts (support php7)",
-    "keywords": ["graph","chart","pie","jpgraph","data"],
+    "version": "4.2.6",
+    "keywords": ["graph", "chart", "pie", "jpgraph", "data"],
     "homepage": "http://jpgraph.net/",
-    "license": "QPL 1.0",
+    "license": "QPL-1.0",
     "authors": [
         {
             "name": "Ilya Shashilov"
