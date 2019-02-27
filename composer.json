@@ -1,13 +1,13 @@
 {
-    "name": "jpgraph/jpgraph",
+    "name": "kvush/jpgraph",
     "type": "library",
-    "description": "jpGraph, library to make graphs and charts",
+    "description": "jpGraph, library to make graphs and charts (support php7)",
     "keywords": ["graph","chart","pie","jpgraph","data"],
     "homepage": "http://jpgraph.net/",
     "license": "QPL 1.0",
     "authors": [
         {
-            "name": "JpGraph team"
+            "name": "Ilya Shashilov"
         }
     ],
     "require": {},
